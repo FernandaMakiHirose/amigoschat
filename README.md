@@ -8,6 +8,11 @@ Interaja com o projeto através de perguntas, sendo possível criar uma sala par
 - IDE
 - Terminal
 
+## Dicas Visual Studio Code
+- Atualizar o conteúdo HTML automaticamente: Existe uma extensão chamada Live Server
+- Copiar a linha inteira: No final da linha ao executar Ctrl + C e Ctrl + V
+- Mover uma linha: Na linha execute Alt + seta para cima ou para baixo
+
 ## Executar o projeto
 Abra o projeto no terminal:
 >npm i
