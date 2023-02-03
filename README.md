@@ -1,4 +1,4 @@
-## Como jogar?
+# Como jogar?
 Abra o projeto no terminal:
 
 	npm i
