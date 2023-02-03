@@ -1,4 +1,4 @@
-# Como Jogar?
+# <p style="text-align: center">Como Jogar?</p> 
 Abra o projeto no terminal:
 
 	npm i
